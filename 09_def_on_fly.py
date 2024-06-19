@@ -73,4 +73,4 @@ class Rectangle:
 
 
 my_rect = Rectangle(6, 3)
-print(f'area = {my_rect()}')
+print(f'area 6*3 = {my_rect()}')
